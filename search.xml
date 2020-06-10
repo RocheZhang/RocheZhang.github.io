@@ -416,22 +416,22 @@
     
     
     <entry>
-      <title>读书</title>
-      <link href="/reading/index.html"/>
-      <url>/reading/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>大家好，欢迎来到狗富贵，勿相汪网站。<br>希望大家在这里能学习到很多养狗知识，善待狗狗，与虐狗势力顽强对抗。<br>记住，我们对它们而言很重要。</p>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>读书</title>
+      <link href="/reading/index.html"/>
+      <url>/reading/index.html</url>
       
-        <content type="html"><![CDATA[<p>大家好，欢迎来到狗富贵，勿相汪网站。<br>希望大家在这里能学习到很多养狗知识，善待狗狗，与虐狗势力顽强对抗。<br>记住，我们对它们而言很重要。</p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
